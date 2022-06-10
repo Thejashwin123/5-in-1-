@@ -9,7 +9,7 @@ var zombieGroup;
 
 var score = 0;
 var life = 3;
-var bullets = 70;
+var bullets = 140;
 
 var heart1, heart2, heart3
 
